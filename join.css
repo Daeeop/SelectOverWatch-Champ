@@ -1,0 +1,112 @@
+.join-container {
+  position: relative;
+}
+
+.join-container .join-form {
+  margin: 60px 672px;
+  text-align: center;
+  font-size: 28px;
+  line-height: 36px;
+  font-family: pretendard;
+  width: 97px;
+  height : 36px;
+  font-weight: 700;
+  position: absolute;
+  top : 30px;
+  
+}
+
+.join-form :nth-child(1) {
+  display:block;
+  width: 500px;
+  height: 56px;
+  position : absolute;
+  top : 80px;
+  left : -187px;
+  text-align: left;
+  border : 2px solid #DBDBDB;
+  border-radius: 8px;
+  box-sizing: border-box;
+  padding : 15px;
+  
+}
+
+.join-form :nth-child(2) {
+  display:block;
+  width: 500px;
+  height: 56px;
+  position : absolute;
+  top : 165px;
+  left : -190px;
+  text-align: left;
+  border : 2px solid #DBDBDB;
+  border-radius: 8px;
+  box-sizing: border-box;
+  padding : 15px;
+}
+
+.join-form :nth-child(3) {
+  display:block;
+  width: 200px;
+  height: 18px;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 18px;
+  opacity: 0.5;
+  position: absolute;
+  top: 235px;
+  left: -185px;
+
+}
+
+.join-form :nth-child(4) {
+  display:block;
+  width: 500px;
+  height: 56px;
+  position : absolute;
+  top : 265px;
+  left : -190px;
+  text-align: left;
+  border : 2px solid #DBDBDB;
+  border-radius: 8px;
+  box-sizing: border-box;
+  padding : 15px;
+}
+
+.join-form > button {
+  width: 160px;
+  height: 48px;
+  background-color: #DBDBDB;
+  border-radius: 8px;
+  color:white;
+  font-size:18px;
+  text-align: center;
+  border-color: transparent;
+  position: absolute;
+  top: 380px;
+  left: -24px;
+  cursor: pointer;
+}
+
+.join-form > p {
+  width: 200px;
+  height: 18px;
+  font-weight: 400px;
+  font-size:14px;
+  color:#757575;
+  position:absolute;
+  top: 438px;
+  left: -65px;
+}
+
+.join-form > a {
+  width: 200px;
+  height: 18px;
+  font-weight: 400px;
+  font-size:14px;
+  color:blue;
+  opacity: 0.5;
+  position:absolute;
+  top: 438px;
+  left: 25px;
+}
